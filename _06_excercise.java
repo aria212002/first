@@ -18,7 +18,7 @@ public class _06_excercise {
 			System.out.println("================================================");
 			System.out.println("1. 문제수 2. 문제출제 3. 문제풀기 4. 점수분석 5. 종료 ");
 			System.out.println("================================================");
-			System.out.print("메뉴를 선택하세요 : ");
+			System.out.print("메뉴 선택 : ");
 			int menu=sc.nextInt();
 			switch(menu) {
 			case 1 :

@@ -15,10 +15,10 @@ public class _06_excercise {
 		String[][] sol=null;
 		
 		while(run) {
-			System.out.println("================================================");
+			System.out.println("============================================");
 			System.out.println("1. 문제수 2. 문제출제 3. 문제풀기 4. 점수분석 5. 종료 ");
-			System.out.println("================================================");
-			System.out.print("메뉴 선택 : ");
+			System.out.println("============================================");
+			System.out.print("메뉴를 선택하세요 : ");
 			int menu=sc.nextInt();
 			switch(menu) {
 			case 1 :
